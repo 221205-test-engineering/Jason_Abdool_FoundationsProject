@@ -73,3 +73,4 @@ Feature: login
   - Pick what the application or scenario calls for
   - The feature files for this application include both imperative and declarative styles for exposure
     - The declaritive ones will require more intepration in your automation code than the imperative
+# Jason_Abdool_FoundationsProject
